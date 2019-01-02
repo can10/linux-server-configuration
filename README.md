@@ -242,3 +242,4 @@ http://ec2-34-219-250-55.us-west-2.compute.amazonaws.com/gconnect
 
 # References
 Udacity's student forums and discussions
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
