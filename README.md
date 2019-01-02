@@ -239,3 +239,6 @@ http://ec2-34-219-250-55.us-west-2.compute.amazonaws.com/gconnect
          |-- /static
          |-- /templates
 ```
+
+# References
+Udacity's student forums and discussions
